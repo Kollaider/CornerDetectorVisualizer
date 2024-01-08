@@ -1,0 +1,7 @@
+.venv
+.idea
+__pycache__/
+
+# Might be inrored:
+#plots/
+#deviation.json
